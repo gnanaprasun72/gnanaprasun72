@@ -2,7 +2,7 @@
 <!--      GITHUB PROFILE       -->
 <!--============================-->
 
-<h1 align="center">🌸 Hi, I'm T. Gnana Prasuna 👋</h1>
+<h1 align="center"> Hi, I'm T. Gnana Prasuna 👋</h1>
 
 <h3 align="center">
   💻 Java Full Stack Developer • 🚀 Software Engineer Aspirant • 🇮🇳 India
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌸 Anime Coding Zone
+##  Anime Coding Zone
 
 <p align="center">
   <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
